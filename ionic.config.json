@@ -1,0 +1,7 @@
+{
+  "name": "roboticaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
